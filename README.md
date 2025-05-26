@@ -11,6 +11,8 @@ https://materialsproject.github.io/jobflow/tutorials/8-fireworks.html#setting-up
 ## Usage
 Run python src/test_env.py
 
+Use qlaunch singleshot to run the test job on the cluster
+
 ## Contributing
 Contributions are welcome from anyone. The current contributors to this project are:
 - Jonathan Schmidt
