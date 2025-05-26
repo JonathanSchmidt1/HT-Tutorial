@@ -1,1 +1,3 @@
 atomate2
+requests
+mace-torch

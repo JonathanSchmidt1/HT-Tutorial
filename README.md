@@ -4,10 +4,12 @@
 
 ## Installation
 pip install -e .
-
+Set up 
+jobflow.yaml and fireworks launchpad according to  https://materialsproject.github.io/atomate2/user/install.html#configure-calculation-output-database
+https://materialsproject.github.io/jobflow/tutorials/8-fireworks.html#setting-up-the-fireworks-configurations
 
 ## Usage
-to use the 
+Run python src/test_env.py
 
 ## Contributing
 Contributions are welcome from anyone. The current contributors to this project are:
