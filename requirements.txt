@@ -1,3 +1,5 @@
 atomate2
 requests
 mace-torch
+optimade[http-client]
+fireworks
