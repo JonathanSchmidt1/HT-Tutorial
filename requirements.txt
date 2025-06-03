@@ -3,3 +3,4 @@ requests
 mace-torch
 optimade[http-client]
 fireworks
+pymatviz
